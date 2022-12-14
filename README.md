@@ -34,3 +34,4 @@ Improvements to be considered :-) :
 - Use of arrays and maps for multiple variables, for example hit rates in different interactions
 - Use thirdperson template instead of topdown template
 - Investigate errors caused by actors destroyed
+- Make rolling movement for characters
