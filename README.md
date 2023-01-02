@@ -1,8 +1,6 @@
 # UE5-Rat-AI-Simulator
 Little game with AI rats, modelling behaviour and reproduction
-(uncooked UE 5.0.3 project)
-
-How to use: For whole project download all 4 zip files and unpack. If you want to see just programming, uasset files are available separatelly
+(uncooked UE 5.0.3 project, blueprints only)
 
 Rules of game:
 - Food is spawning and disapearing automatically based on settings
